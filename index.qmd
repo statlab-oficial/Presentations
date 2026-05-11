@@ -1,0 +1,90 @@
+---
+title: "STATLAB"
+subtitle: "Laboratório de Inovação em Estatística"
+author: "Universidade Federal do Ceará"
+format:
+  revealjs:
+    theme: black
+    transition: slide
+    transition-speed: slow
+    background-transition: fade
+    slide-number: false
+    controls: false
+    progress: true
+    center: true
+    width: 1920
+    height: 1080
+    css: netflix.css
+    embed-resources: true
+---
+  
+# Rapadura Estocástica
+
+  
+## Rapadura Estocástica
+  
+### Uma história de perseverança e sucesso
+
+::: {.columns}
+
+:::: {.column width="55%"}
+
+- Um mestre
+- Várias histórias
+- Muitas lutas 
+- Conquistas
+
+::::
+  
+:::: {.column width="45%"}
+
+![](images/cabecas.jpeg){.full-image}
+
+::::
+  
+:::
+  
+  
+## Tudo começou com uma ideia.
+  
+::: {.fragment .fade-in}
+
+Transformar estatística em algo vivo.
+
+:::
+  
+---
+  
+## 2023
+  
+# O COMEÇO
+  
+::: {.columns}
+
+:::: {.column width="55%"}
+
+### Pequenas reuniões.
+
+### Grandes ambições.
+
+- Primeiros integrantes
+- Construção da identidade
+- Projetos iniciais
+- Estatística fora da sala de aula
+
+::::
+  
+:::: {.column width="45%"}
+
+![](images/start.jpg){.full-image}
+
+::::
+  
+:::
+  
+---
+  
+## Nem tudo era organizado.
+  
+# E ISSO ERA O MELHOR.
+  

@@ -1,0 +1,99 @@
+```css
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;700;900&display=swap');
+
+:root {
+  --r-background-color: #000000;
+    --r-main-color: #ffffff;
+    --r-heading-color: #ffffff;
+    --r-link-color: #e50914;
+}
+
+.reveal {
+  font-family: 'Montserrat', sans-serif;
+  background: #000;
+}
+
+.reveal .slides {
+  text-align: left;
+}
+
+.reveal h1 {
+  font-size: 4.5rem;
+  font-weight: 900;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+}
+
+.reveal h2 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #e50914;
+    text-transform: uppercase;
+}
+
+.reveal h3 {
+  font-size: 1.6rem;
+  font-weight: 600;
+}
+
+.reveal p,
+.reveal li {
+  font-size: 1.3rem;
+  line-height: 1.7;
+}
+
+.full-image {
+  border-radius: 18px;
+  box-shadow: 0px 0px 40px rgba(0,0,0,0.8);
+}
+
+.cinematic {
+  width: 100%;
+  border-radius: 25px;
+  box-shadow: 0px 0px 60px rgba(0,0,0,0.9);
+}
+
+.quote-block {
+  margin-top: 180px;
+  font-size: 2.2rem;
+  font-weight: 300;
+  color: #ffffff;
+    border-left: 6px solid #e50914;
+  padding-left: 30px;
+  opacity: 0.9;
+}
+
+.timeline-netflix {
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-between;
+  gap: 40px;
+}
+
+.event {
+  flex: 1;
+  background: rgba(255,255,255,0.05);
+  border-radius: 25px;
+  padding: 35px;
+  backdrop-filter: blur(10px);
+  transition: all 0.4s ease;
+}
+
+.event:hover {
+  transform: scale(1.05);
+  background: rgba(229,9,20,0.15);
+}
+
+.year {
+  color: #e50914;
+    font-size: 2rem;
+  font-weight: 800;
+}
+
+.reveal section {
+  padding: 80px;
+}
+
+.reveal .progress {
+  color: #e50914;
+}
