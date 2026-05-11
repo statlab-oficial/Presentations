@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/1431602/da71c46f887a42bc8bd67af25770b396
+bundleId: https://api.rpubs.com/api/v1/document/1431602/da71c46f887a42bc8bd67af25770b396
+url: http://rpubs.com/statlab-oficial/1431602
+version: 1

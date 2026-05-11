@@ -1,7 +1,7 @@
 ---
 title: "STATLAB"
 subtitle: "Laboratório de Inovação em Estatística"
-author: "Universidade Federal do Ceará"
+author: "Semana da Ciência de Dados"
 format:
   revealjs:
     theme: black
@@ -14,11 +14,12 @@ format:
     center: true
     width: 1920
     height: 1080
+    smaller: false
     css: netflix.css
     embed-resources: true
 ---
   
-# Rapadura Estocástica
+# Rapadura Estocástica 
 
   
 ## Rapadura Estocástica
@@ -32,7 +33,7 @@ format:
 - Um mestre
 - Várias histórias
 - Muitas lutas 
-- Conquistas
+- Várias Conquistas
 
 ::::
   
@@ -45,11 +46,11 @@ format:
 :::
   
   
-## Tudo começou com uma ideia.
+## Tudo começou com uma ideia
   
 ::: {.fragment .fade-in}
 
-Transformar estatística em algo vivo.
+Criar um ambiente e uma mentalidade voltados para o desenvolvimento e evolução da Estatística e Ciência de Dados no Estado do Ceará
 
 :::
   
@@ -63,9 +64,9 @@ Transformar estatística em algo vivo.
 
 :::: {.column width="55%"}
 
-### Pequenas reuniões.
+### Pequenas reuniões
 
-### Grandes ambições.
+### Grandes Sonhos
 
 - Primeiros integrantes
 - Construção da identidade
@@ -76,7 +77,7 @@ Transformar estatística em algo vivo.
   
 :::: {.column width="45%"}
 
-![](images/start.jpg){.full-image}
+![](images/statlab.jpeg){.full-image}
 
 ::::
   
@@ -84,7 +85,223 @@ Transformar estatística em algo vivo.
   
 ---
   
-## Nem tudo era organizado.
+## Nem tudo é tão simples!
   
-# E ISSO ERA O MELHOR.
+# QUANDO EXISTE AMOR E DEDICAÇÃO, TUDO ACONTECE NO TEMPO CERTO!
   
+---
+
+
+# APRESENTAÇÕES ESPECIAIS
+
+
+## Prof. Dra. Alessandra Cristina da Silva Farias
+
+### Estatística Pesqueira e Ensino da Estatística
+
+<br>
+
+🔗 [Clique aqui para acessar os slides](https://drive.google.com/file/d/1c9rsigS6UHg40LWJTB8iwU0xn0rOOavp/view?usp=sharing)
+
+---
+
+
+
+## Prof. Dr. Ronald Targino Nojosa
+
+### Modelos de Regressão e Estatística Computacional
+
+<br>
+
+🔗 [Clique aqui para acessar os slides](https://drive.google.com/file/d/1c9rsigS6UHg40LWJTB8iwU0xn0rOOavp/view?usp=sharing)
+
+---
+
+
+## Prof. Dr. José Roberto Silva dos Santos
+
+### Modelos Bayesianos e Avaliação Educacional
+
+<br>
+
+🔗 [Clique aqui para acessar os slides](https://drive.google.com/file/d/1c9rsigS6UHg40LWJTB8iwU0xn0rOOavp/view?usp=sharing)
+
+---
+
+# QUEM SOMOS HOJE
+
+## Membros Atuais
+
+::: {.columns}
+
+:::: {.column width="33%"}
+
+### Analytics
+
+**Jose Ailton Alencar Andrade**  
+Métodos Bayesianos • Processos Estocásticos
+
+<br>
+
+**Jose Roberto Silva dos Santos**  
+Modelos Bayesianos • Avaliação Educacional
+
+<br>
+
+**Manoel Ferreira dos Santos Neto**  
+Modelos de Regressão • Sobrevivência
+
+<br>
+
+**Ronald Targino Nojosa**  
+Regressão • Estatística Computacional
+
+::::
+
+:::: {.column width="33%"}
+
+### Impacto Social
+
+**Alessandra Cristina da Silva Farias**  
+Estatística Pesqueira • Ensino da Estatística
+
+<br>
+
+**Maria Jacqueline Batista**  
+Análise de Dados • Regressão Aplicada
+
+<br>
+
+**Rafael Braz Azevedo Farias**  
+Modelagem Estatística • Avaliação Educacional
+
+::::
+
+:::: {.column width="33%"}
+
+### Aprendizado Estatístico
+
+**Juvêncio Santos Nobre**  
+Modelos de Regressão • Avaliação Educacional
+
+<br>
+
+**Luis Gustavo Bastos Pinho**  
+Probabilidade • Processos Estocásticos
+
+::::
+
+:::
+
+---
+
+# Juvêncio Santos Nobre {background-image="images/cabecas.jpeg" background-size="cover"}
+
+## Breve Resumo Profissional
+
+- Membro Permanente do Programa de Pós-Graduação em Modelagem e Métodos Quantitativos
+
+- Bolsista de Produtividade do CNPq
+
+- Editor Associado do *Brazilian Journal of Probability and Statistics*
+
+- 46 aceitos, sendo 26 (56,5%) no estrato A, 16 no B (34,8%), 2 no C (4,3%) e 2 (4,3%)
+
+- 1257 citações
+
+- indice h=16 e i10=24
+
+- Coordenador do projeto Universal/CNPq recentemente aprovado no comitê de Probabilidade e Estatística (2025-2028): Modelos de Regressão e Extensões
+
+---
+
+# O QUE ESTAMOS FAZENDO
+
+## Projetos Ativos
+
+::: {.incremental}
+
+### Extensão 
+- Laboratório de Inovação em Estatística (2 bolsistas, 15 agentes de extensão)
+- Cultura de Dados e Extensão Universitária: integrando formação acadêmica e impacto social (2 bolsistas, 15 agentes de extensão)
+
+### Ensino
+- Storytelling com Dados com Auxílio de IAs
+- Além das fórmulas: você utiliza o pensamento estatístico?
+
+### Pesquisa
+
+- Modelagem integrada na dinâmica populacional de Panulirus argus e Panulirus laevicauda no Brasil: subsídios para avaliação de estoques e definição de cotas de captura
+- Cientista-Chefe da Transformação Digital no Ceará
+- Chamada CNPq/MCTI/FNDCT nº 44/2024 — Modelos de Regressão e Extensões
+
+:::
+
+---
+
+# IMPACTO
+
+## Muito além da universidade
+
+::: {.columns}
+
+:::: {.column width="55%"}
+
+- Formação de pesquisadores
+- Participação em eventos científicos
+- Produção acadêmica
+- Projetos aplicados
+- Integração entre ensino, pesquisa e extensão
+- Fortalecimento da Estatística no Ceará
+
+::::
+
+:::: {.column width="45%"}
+
+![](images/projetos.jpeg){.full-image}
+
+::::
+
+:::
+
+---
+
+# PRÓXIMOS PASSOS
+
+## Futuro Próximo
+
+::: {.fragment .fade-in}
+
+### Nossos planos
+
+- Expansão do laboratório
+- Novas linhas de pesquisa
+- Consolidação de parcerias nacionais
+- Participação em competições e eventos
+- Desenvolvimento de produtos em Ciência de Dados
+- Formação de novos talentos
+- Maior presença digital e científica
+
+:::
+
+---
+
+# O FUTURO JÁ COMEÇOU
+
+## STATLAB
+
+### Ciência, inovação e transformação através da Estatística e Ciência de Dados
+
+::: {.fragment .fade-in}
+
+"Grandes ideias começam com pequenos encontros."
+
+:::
+
+---
+
+# OBRIGADO!
+
+## Universidade Federal do Ceará
+
+### STATLAB — Laboratório de Inovação em Estatística

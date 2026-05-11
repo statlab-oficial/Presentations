@@ -1,4 +1,4 @@
-```css
+
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;700;900&display=swap');
 
 :root {
@@ -8,92 +8,92 @@
     --r-link-color: #e50914;
 }
 
+.* =========================
+   PADRÃO PREMIUM DE SLIDES
+========================= */
+
 .reveal {
-  font-family: 'Montserrat', sans-serif;
-  background: #000;
-}
-
-.reveal .slides {
-  text-align: left;
-}
-
-.reveal h1 {
-  font-size: 4.5rem;
-  font-weight: 900;
-  letter-spacing: 4px;
-  text-transform: uppercase;
-}
-
-.reveal h2 {
-  font-size: 2.5rem;
-  font-weight: 700;
-  color: #e50914;
-    text-transform: uppercase;
-}
-
-.reveal h3 {
-  font-size: 1.6rem;
-  font-weight: 600;
-}
-
-.reveal p,
-.reveal li {
-  font-size: 1.3rem;
-  line-height: 1.7;
-}
-
-.full-image {
-  border-radius: 18px;
-  box-shadow: 0px 0px 40px rgba(0,0,0,0.8);
-}
-
-.cinematic {
-  width: 100%;
-  border-radius: 25px;
-  box-shadow: 0px 0px 60px rgba(0,0,0,0.9);
-}
-
-.quote-block {
-  margin-top: 180px;
-  font-size: 2.2rem;
-  font-weight: 300;
+  font-family: "Inter", "Helvetica Neue", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
   color: #ffffff;
-    border-left: 6px solid #e50914;
-  padding-left: 30px;
+}
+
+/* Título principal */
+.reveal h1 {
+  font-size: 2.8em;
+  font-weight: 900;
+  letter-spacing: -2px;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+}
+
+/* Subtítulos */
+.reveal h2 {
+  font-size: 1.8em;
+  font-weight: 700;
+  margin-bottom: 25px;
+}
+
+/* Títulos menores */
+.reveal h3 {
+  font-size: 1.2em;
+  font-weight: 500;
   opacity: 0.9;
 }
 
-.timeline-netflix {
-  margin-top: 100px;
-  display: flex;
-  justify-content: space-between;
-  gap: 40px;
+/* Texto */
+.reveal p,
+.reveal li {
+  font-size: 1.05em;
+  line-height: 1.45;
 }
 
-.event {
-  flex: 1;
-  background: rgba(255,255,255,0.05);
-  border-radius: 25px;
-  padding: 35px;
-  backdrop-filter: blur(10px);
-  transition: all 0.4s ease;
+/* Listas */
+.reveal ul {
+  margin-top: 25px;
 }
 
-.event:hover {
-  transform: scale(1.05);
-  background: rgba(229,9,20,0.15);
+/* Espaçamento */
+.reveal .slides section {
+  padding-left: 90px;
+  padding-right: 90px;
 }
 
-.year {
-  color: #e50914;
-    font-size: 2rem;
-  font-weight: 800;
+/* Imagens */
+.full-image img {
+  border-radius: 18px;
+  box-shadow: 0 10px 40px rgba(0,0,0,0.45);
 }
 
-.reveal section {
-  padding: 80px;
+/* Colunas */
+.columns {
+  align-items: center;
+  gap: 50px;
 }
 
-.reveal .progress {
-  color: #e50914;
+.reveal .slides section {
+  text-shadow: 0 4px 20px rgba(0,0,0,0.9);
 }
+
+
+/* Logo da Semana da Ciência de Dados */
+.reveal .title-slide::after {
+  content: "";
+  
+  position: absolute;
+  
+  bottom: 40px;
+  right: 50px;
+
+  width: 220px;
+  height: 220px;
+
+  background-image: url("images/logo_semana.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+
+  opacity: 0.9;
+}
+
