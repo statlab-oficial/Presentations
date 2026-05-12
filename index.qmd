@@ -8,7 +8,7 @@ format:
     transition: slide
     transition-speed: slow
     background-transition: fade
-    slide-number: false
+    slide-number: true
     controls: false
     progress: true
     center: true
@@ -77,7 +77,7 @@ Criar um ambiente e uma mentalidade voltados para o desenvolvimento e evolução
   
 :::: {.column width="45%"}
 
-![](images/statlab.jpeg){.full-image}
+![](images/StatLab_oficial_sem_fundo.png){.full-image}
 
 ::::
   
@@ -95,7 +95,7 @@ Criar um ambiente e uma mentalidade voltados para o desenvolvimento e evolução
 # APRESENTAÇÕES ESPECIAIS
 
 
-## Prof. Dra. Alessandra Cristina da Silva Farias
+## Profa. Dra. Alessandra Cristina da Silva Farias
 
 ### Estatística Pesqueira e Ensino da Estatística
 
@@ -195,7 +195,7 @@ Probabilidade • Processos Estocásticos
 
 ---
 
-# Juvêncio Santos Nobre {background-image="images/cabecas.jpeg" background-size="cover"}
+# Juvêncio Santos Nobre {background-image="images/ranking2.png" background-size="cover"}
 
 ## Breve Resumo Profissional
 
@@ -258,7 +258,7 @@ Probabilidade • Processos Estocásticos
 
 :::: {.column width="45%"}
 
-![](images/projetos.jpeg){.full-image}
+![](images/banner_pagina_1.png){.full-image}
 
 ::::
 

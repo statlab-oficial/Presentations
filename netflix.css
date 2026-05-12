@@ -2,10 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;700;900&display=swap');
 
 :root {
-  --r-background-color: #000000;
+  --r-background-color: #022859;
     --r-main-color: #ffffff;
-    --r-heading-color: #ffffff;
-    --r-link-color: #e50914;
+    --r-heading-color: #F66B0E;
+    --r-link-color: #F66B0E;
 }
 
 .* =========================
@@ -89,11 +89,15 @@
   width: 220px;
   height: 220px;
 
-  background-image: url("images/logo_semana.png");
+  background-image: url("images/logoscd.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
 
   opacity: 0.9;
+  
+  z-index: 10;
+
 }
+
 
